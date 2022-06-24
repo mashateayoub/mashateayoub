@@ -1,5 +1,5 @@
 
-<img height="150" align="right" src="https://media.giphy.com/media/116n6kcHaFbw3e/giphy.gif" alt="mukireus"/>
+<img height="150" src="https://media.giphy.com/media/116n6kcHaFbw3e/giphy.gif" alt="mukireus"/>
 ### Hi there 👋
 
 - 🖥️  BI Student & Web Developer;
