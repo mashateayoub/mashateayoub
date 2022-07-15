@@ -1,8 +1,7 @@
 
 ### Hi there 👋
 
-- 🖥️  Data Analysis & BI Student / Web Developer;
-- 📕  Currently learning ReactJs & Django & Interested in Web technologies in general.
+🖥️ I'm a Data Analysis & BI Student / Web Developer;
 
 
 <!--[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=magoumi)](https://github.com/mohouyizme/1337-readme)-->
