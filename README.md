@@ -3,14 +3,7 @@
 
 🖥️ I'm a Data Science & BI Student / Web Developer;
 
-
-<!--[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=magoumi)](https://github.com/mohouyizme/1337-readme)-->
-
-<a href="https://github.com/mashateayoub?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashateayoub&theme=dark"/>
-</a>
-
-<a href="https://github.com/mashateayoub?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mashateayoub&line_height=40&show_icons=true&theme=dark">
-</a>
+![](https://github-readme-stats.vercel.app/api?username=mashateayoub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mashateayoub&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mashateayoub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
