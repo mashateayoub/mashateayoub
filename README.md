@@ -4,10 +4,12 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F91F7&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Ayoub+%F0%9F%91%8B;Full+Stack+Java+Developer" alt="Typing SVG" />
 </div>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The only place success comes before work is in the dictionary&author=Vidal Sassoon" />
-</p>
 
+<div align="center">
+  <i>"It's not a <b>bug </b>; it's an undocumented <b>feature</b>."</i>
+  <br/>
+  <b>- Anonymous</b>
+</div>
 
 ## 🚀 About Me
 - 🔭 currently working on Full Stack Java Applications
