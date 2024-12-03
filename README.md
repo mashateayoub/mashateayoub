@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=mashateayoub&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F91F7&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Ayoub+%F0%9F%91%8B;Junior+Full-Stack+Java+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F91F7&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Ayoub+%F0%9F%91%8B;Full-Stack+Java+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
