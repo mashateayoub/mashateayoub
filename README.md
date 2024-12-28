@@ -12,6 +12,7 @@
 </div>
 
 ## 🚀 About Me
+
 - 🔭 currently working on Full Stack Java Applications
 - 🌱 specializing in Spring Boot and Microservices Architecture
 - 📚 Learning React/Next.js for frontend development
@@ -21,6 +22,7 @@
 - 📫 How to reach me: mashateayoub@gmail.com
 
 ## 🛠️ Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
@@ -37,6 +39,7 @@
 </p>
 
 ## 📄 Resume
+
 <p align="center">
   <a href="https://portfolio-next-js-mashate.vercel.app/resume/resume_en.pdf">
     <img src="https://img.shields.io/badge/Resume-English-%23D14836?style=for-the-badge&logo=files&logoColor=white" />
@@ -46,25 +49,18 @@
   </a>
 </p>
 
-
 ## 📊 GitHub Stats
+
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=mashateayoub&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" />
   <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=mashateayoub&theme=tokyonight&hide_border=true" />
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashateayoub&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 </div>
 
-
 ## 🤝 Connect with me
+
 <p align="center">
   <a href="https://linkedin.com/in/ayoubmashate">
     <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/mashateayoub">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=black" />
-  </a>
 </p>
-
-
-
-
