@@ -61,7 +61,7 @@
 ## 🤝 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayoubmashate/">
+  <a href="https://www.linkedin.com/in/ayoubmashate/ ">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
