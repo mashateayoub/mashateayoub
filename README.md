@@ -20,7 +20,6 @@
 - 👯 looking to collaborate on innovative Java or Data Science projects
 - 💬 Ask me about Java, Spring Boot, Python, or ML
 - 📫 How to reach me: mashateayoub@gmail.com
-- this line is for an extension test
 
 ## 🛠️ Tech Stack
 
