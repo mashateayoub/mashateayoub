@@ -1,12 +1,14 @@
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://ma.linkedin.com/in/ayoubmashate)
-
-[![GitHub](https://img.shields.io/badge/Ayoub%20Mashate-181717?style=flat&logo=github&logoColor=white)](https://github.com/mashateayoub)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/frixus1g?style=social&logo=&logoColor=black)](https://x.com/frixus1g)
-
-</div>
+<p align="center">
+  <a href="https://ma.linkedin.com/in/ayoubmashate">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mashateayoub">
+    <img src="https://img.shields.io/badge/GitHub-Follow-%23181717?style=social&logo=github&logoColor=black" />
+  </a>
+  <a href="https://x.com/mashateayoub">
+    <img src="https://img.shields.io/badge/Follow @mashateayoub -%231DA1F2?style=social&logo=x&logoColor=black" />
+  </a>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mashateayoub&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
