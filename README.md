@@ -1,5 +1,15 @@
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://ma.linkedin.com/in/ayoubmashate)
+
+[![GitHub](https://img.shields.io/badge/Ayoub%20Mashate-181717?style=flat&logo=github&logoColor=white)](https://github.com/mashateayoub)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/frixus1g?style=social&logo=&logoColor=black)](https://x.com/frixus1g)
+
+</div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mashateayoub&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+
 </p>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F91F7&center=true&vCenter=true&random=false&width=600&lines=A+Junior+Software+Engineer;Hi+there!+I'm+Ayoub+%F0%9F%91%8B " alt="Typing SVG" />
@@ -65,15 +75,4 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=mashateayoub&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" />
   <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=mashateayoub&theme=tokyonight&hide_border=true" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashateayoub&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
-</div>
-
-### 🤝 Connect with me
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-
-[![LinkedIn](https://img.shields.io/badge/Ayoub%20Mashate-0e76a8?style=flat&logo=LinkedIn&logoColor=white)](https://ma.linkedin.com/in/ayoubmashate)
-
-[![GitHub](https://img.shields.io/badge/Ayoub%20Mashate-181717?style=flat&logo=github&logoColor=white)](https://github.com/mashateayoub)
-
-[![Twitter](https://img.shields.io/badge/Ayoub%20Mashate-181717??style=flat&logo=x&logoColor=white)](https://twitter.com/frixus1g)
-
 </div>
