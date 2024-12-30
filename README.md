@@ -92,10 +92,7 @@
 </div>
 
 ## 🤝 Connect with me
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<p align="center">
-  <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="ayoubmashate" data-version="v1">
-    <a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/ayoubmashate?trk=profile-badge">Mashate Ayoub</a>
-  </div>
-              
+## 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayoub%20Mashate-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://ma.linkedin.com/in/ayoubmashate) 
 </p>
