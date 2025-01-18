@@ -64,10 +64,10 @@
 ### 📄 Resume
 
 <p align="center">
-  <a href="https://portfolio-next-js-mashate.vercel.app/resume/resume_en.pdf">
+  <a href="https://portfolio-next-js-mashate.vercel.app/resume/MashateAyoub_EN_SE.pdf">
     <img src="https://img.shields.io/badge/Resume-English-%23D14836?style=flat&logo=files&logoColor=white" />
   </a>
-  <a href="https://portfolio-next-js-mashate.vercel.app/resume/resume_fr.pdf">
+  <a href="https://portfolio-next-js-mashate.vercel.app/resume/MashateAyoub_FR_SE.pdf"> 
     <img src="https://img.shields.io/badge/CV-Français-%2371B8ED?style=flat&logo=files&logoColor=white" />
   </a>
 </p>
