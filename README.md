@@ -76,6 +76,5 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=mashateayoub&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" />
-  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=mashateayoub&theme=tokyonight&hide_border=true" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashateayoub&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 </div>
