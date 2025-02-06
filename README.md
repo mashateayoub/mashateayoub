@@ -9,7 +9,6 @@
     <img src="https://img.shields.io/badge/Follow @mashateayoub -%231DA1F2?style=social&logo=x&logoColor=black" />
   </a>
 </p>
-removing github profile views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mashateayoub&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
