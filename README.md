@@ -57,17 +57,6 @@
 ![Microsoft Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
 
-### 📄 Resume
-
-<p align="center">
-  <a href="https://mashate.vercel.app/resume/MashateAyoub_EN_SE.pdf">
-    <img src="https://img.shields.io/badge/Resume-English-%23D14836?style=flat&logo=files&logoColor=white" />
-  </a>
-  <a href="https://mashate.vercel.app/resume/MashateAyoub_FR_SE.pdf"> 
-    <img src="https://img.shields.io/badge/CV-Français-%2371B8ED?style=flat&logo=files&logoColor=white" />
-  </a>
-</p>
-
 ### 📊 GitHub Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
