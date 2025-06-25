@@ -10,7 +10,6 @@
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mashateayoub)](https://github.com/ryo-ma/github-profile-trophy)
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F91F7&center=true&vCenter=true&random=false&width=600&lines=A+Junior+Software+Engineer;Hi+there!+I'm+Ayoub+%F0%9F%91%8B " alt="Typing SVG" />
 </div>
@@ -59,9 +58,13 @@
 ![Microsoft Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
 
+### 🏆 Trophies
+  [![trophy](https://github-profile-trophy.vercel.app/?username=mashateayoub&theme=darkhub&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div >
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=mashateayoub&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashateayoub&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 </div>
