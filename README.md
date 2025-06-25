@@ -9,6 +9,8 @@
     <img src="https://img.shields.io/badge/Follow @mashateayoub -%231DA1F2?style=social&logo=x&logoColor=black" />
   </a>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mashateayoub)](https://github.com/ryo-ma/github-profile-trophy)
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F91F7&center=true&vCenter=true&random=false&width=600&lines=A+Junior+Software+Engineer;Hi+there!+I'm+Ayoub+%F0%9F%91%8B " alt="Typing SVG" />
 </div>
