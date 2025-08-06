@@ -15,8 +15,7 @@
 </div>
 
 ###  About me
-- 🔭 currently working on Full Stack Java/Spring Applications
-- 📚 Learning Angular for frontend development
+- 🔭 currently working on Full Stack Java/Spring & Angular Applications
 - 🤖 Knowledge in Data Science and Machine Learning using Python
 - 👯 looking to collaborate on innovative Java or Data Science projects
 - 💬 Ask me about Java, Spring Boot, Python, or ML
