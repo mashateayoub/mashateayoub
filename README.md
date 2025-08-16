@@ -5,9 +5,6 @@
   <a href="https://github.com/mashateayoub">
     <img src="https://img.shields.io/badge/GitHub-Follow-%23181717?style=social&logo=github&logoColor=black" />
   </a>
-  <a href="https://x.com/mashateayoub">
-    <img src="https://img.shields.io/badge/Follow @mashateayoub -%231DA1F2?style=social&logo=x&logoColor=black" />
-  </a>
 </p>
 
 <div align="center">
