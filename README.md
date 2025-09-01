@@ -11,12 +11,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=112111&center=true&vCenter=true&random=false&width=600&lines=A+Junior+Software+Engineer;Hi+there!+I'm+Ayoub+%F0%9F%91%8B " alt="Typing SVG" />
 </div>
 
-###  About me
-- 🔭 currently working on Full Stack Java/Spring & Angular Applications
-- 🤖 Knowledge in Data Science and Machine Learning using Python
-- 👯 looking to collaborate on innovative Java or Data Science projects
-- 💬 Ask me about Java, Spring Boot, Python, or ML
-- 📫 How to reach me: mashateayoub@gmail.com
 
 ### 🛠️ Tech Stack
 
