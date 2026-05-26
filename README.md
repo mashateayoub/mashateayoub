@@ -3,3 +3,5 @@
 
 <h1 align="center">Hi 👋, I'm ayoub mashate</h1>
 <h3 align="center">A Junior Software Engineer from Morocco</h3>
+
+[![roadmap.sh](https://roadmap.sh/card/wide/66f43449c45e253cb05f9e57?variant=light&roadmaps=machine-learning%2Cai-agents)](https://roadmap.sh)
