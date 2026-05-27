@@ -35,16 +35,6 @@ Currently open to opportunities, collaborations, and projects where I can contri
 
 ---
 
-## Featured projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [PapersQAagent](https://github.com/mashateayoub/PapersQAagent) | LangChain agent using Ollama to ask questions over research papers | Python, LangChain, Ollama |
-| [MES-REACT](https://github.com/mashateayoub/MES-REACT) | Manufacturing Execution System frontend/project work | React, CSS |
-| [mashateayoub](https://github.com/mashateayoub/mashateayoub) | My GitHub profile repository | Markdown |
-
----
-
 ## Tech stack
 
 ### Languages
