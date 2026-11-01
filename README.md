@@ -18,7 +18,7 @@ Currently open to opportunities, collaborations, and projects where I can contri
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayoubmashate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoubmashate/)
 [![GitHub](https://img.shields.io/badge/GitHub-mashateayoub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mashateayoub)
 [![Open for Work](https://img.shields.io/badge/Open_for_Work-Yes-2EA44F?style=for-the-badge)](#contact)
-[![Portfolio](https://img.shields.io/badge/Portfolio-www.mashateayoub.com-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.mashateayoub.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-www.mashateayoub.com-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://mashateayoub.com)
 
 </div>
 
