@@ -31,7 +31,7 @@ Currently open to opportunities, collaborations, and projects where I can contri
 - 🧠 Interested in **AI agents, full-stack engineering, distributed systems, and cloud/devops**
 - 🛠️ I enjoy building projects that combine **real-world usefulness** with solid engineering
 - 🤝 Open to **software engineering roles, freelance work, collaborations, and open-source contributions**
-- 📫 Reach me through **LinkedIn** or add your email here: `mashateayoub@gmail.com`
+- 📫 Reach me through **LinkedIn** or  email me here: `mashateayoub@gmail.com`
 
 ---
 
